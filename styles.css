@@ -1,0 +1,44 @@
+html{
+    /* background-color:lime; */
+}
+
+h1{
+    
+    text-align: center;
+    font-size: 70px;
+    font-family:cursive;
+    border: 10px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.dices{
+    border: 10px solid black;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+#btn{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    background-color: lime;
+    font-size: 30px;
+    border: 3px solid black;
+    border-radius: 0px;
+    padding: 10px;
+}
+
